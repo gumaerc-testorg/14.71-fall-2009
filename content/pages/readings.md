@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of course textbooks and the schedule of
+  reading assignments by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
