@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on the economic history of financial crises and the Great
   Depression.
-file: /courses/14-71-economic-history-of-financial-crises-fall-2009/6b9ac6db14a32054fc79d9088ea742a0_MIT14_71F09_pset1.pdf
+file: /ol-ocw-studio-app/courses/14-71-economic-history-of-financial-crises-fall-2009/6b9ac6db14a32054fc79d9088ea742a0_MIT14_71F09_pset1.pdf
 file_size: 26357
 file_type: application/pdf
 learning_resource_types:
